@@ -1,0 +1,18 @@
+body { 
+    font-family: Verdana; 
+    font-size: 12px; 
+    color: #444; 
+} 
+
+a {color: #48577D; text-decoration: none;} 
+   
+a:hover {text-decoration: none;
+    color: #48577D;} 
+   
+h1, h2 {margin-bottom: 15px} 
+   
+h1 {font-size: 18px;} 
+h2 {font-size: 16px} 
+
+
+
